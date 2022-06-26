@@ -1,0 +1,16 @@
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\Animals\bin\Debug\net5.0\Animals.exe
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\Animals\bin\Debug\net5.0\Animals.deps.json
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\Animals\bin\Debug\net5.0\Animals.runtimeconfig.json
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\Animals\bin\Debug\net5.0\Animals.runtimeconfig.dev.json
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\Animals\bin\Debug\net5.0\Animals.dll
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\Animals\bin\Debug\net5.0\ref\Animals.dll
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\Animals\bin\Debug\net5.0\Animals.pdb
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\Animals\obj\Debug\net5.0\Animals.csproj.AssemblyReference.cache
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\Animals\obj\Debug\net5.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\Animals\obj\Debug\net5.0\Animals.AssemblyInfoInputs.cache
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\Animals\obj\Debug\net5.0\Animals.AssemblyInfo.cs
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\Animals\obj\Debug\net5.0\Animals.csproj.CoreCompileInputs.cache
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\Animals\obj\Debug\net5.0\Animals.dll
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\Animals\obj\Debug\net5.0\ref\Animals.dll
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\Animals\obj\Debug\net5.0\Animals.pdb
+C:\Users\Chidera Judith\Documents\wellahealth school\ClassesAndMethods\Animals\obj\Debug\net5.0\Animals.genruntimeconfig.cache
